@@ -121,7 +121,7 @@
 </table>
 <input type="submit" value="Πληρωμη!"  />
 
-                     
+                        
         </html:form>
        
          <p></p>
